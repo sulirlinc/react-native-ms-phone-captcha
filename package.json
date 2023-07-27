@@ -1,0 +1,30 @@
+{
+  "name": "react-native-ms-phone-captcha",
+  "version": "1.0.0",
+  "description": "phone verify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulirlinc/react-native-ms-phone-captcha.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "phone",
+    "captcha",
+    "verify",
+    "opt"
+  ],
+  "author": "linc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sulirlinc/react-native-ms-phone-captcha/issues"
+  },
+  "homepage": "https://github.com/sulirlinc/react-native-ms-phone-captcha#readme",
+  "dependencies": {
+    "react-native": "0.72.3"
+  }
+}
